@@ -4,7 +4,6 @@ import ec.edu.ups.poo.enums.Rol;
 import java.util.GregorianCalendar;
 
 public class Asignacion {
-
     private GregorianCalendar fechaInicio;
     private Rol rol;
     public Asignacion(GregorianCalendar fechaInicio, Rol rol) {
